@@ -1,0 +1,23 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/3.6.4/bin/python" value="false" />
+        <entry key="docker-compose://[/home/denis/PycharmProjects/PyCamp_Music_Store/docker-compose.yml]:celery_beat/python3" value="false" />
+        <entry key="docker-compose://[/home/denis/PycharmProjects/PyCamp_Music_Store/docker-compose.yml]:web/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="docker-compose://[/home/denis/PycharmProjects/PyCamp_Music_Store/docker-compose.yml]:celery_beat/python3" value="false" />
+        <entry key="docker-compose://[/home/denis/PycharmProjects/PyCamp_Music_Store/docker-compose.yml]:web/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="docker-compose://[/home/denis/PycharmProjects/PyCamp_Music_Store/docker-compose.yml]:celery_beat/python3" value="false" />
+        <entry key="docker-compose://[/home/denis/PycharmProjects/PyCamp_Music_Store/docker-compose.yml]:web/python3" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
