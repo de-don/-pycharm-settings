@@ -1,0 +1,19 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4" />
+        <option value="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" />
+        <option value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+        <option value="$USER_HOME$/miniconda3/bin/python" />
+        <option value="$USER_HOME$/miniconda3/bin/python3" />
+        <option value="/usr/local/Cellar/python/3.6.4_4/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+        <option value="/usr/local/bin/python3.6" />
+        <option value="sftp://den@174.138.54.137:22/home/den/virtenvs/AnonBot/bin/python" />
+        <option value="sftp://den@174.138.54.137:22/home/den/virtenvs/Likes/bin/python" />
+        <option value="sftp://dewq@95.85.42.168:8841/home/dewq/virtenvs/flask/bin/python" />
+        <option value="ssh://dewq@95.85.42.168:8841/usr/bin/python" />
+      </set>
+    </option>
+  </component>
+</application>
