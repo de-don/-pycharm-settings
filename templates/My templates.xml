@@ -1,0 +1,8 @@
+<templateSet group="My templates">
+  <template name="titl" value="##############################################################&#10;# $text$&#10;##############################################################" description="Title block" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
