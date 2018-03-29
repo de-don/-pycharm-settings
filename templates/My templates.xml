@@ -5,4 +5,15 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="docf" value="&quot;&quot;&quot; $description$&#10;&#10;Args:&#10;    $arg_name$($arg_type$): $arg_decs$&#10;&#10;Returns:&#10;    $return_type$: $return_decs$&#10;&quot;&quot;&quot;" description="docstring for function" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="pyFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg_name" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg_type" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="arg_decs" expression="" defaultValue="first argument" alwaysStopAt="true" />
+    <variable name="return_type" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return_decs" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
