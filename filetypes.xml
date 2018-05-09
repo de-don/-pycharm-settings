@@ -7,7 +7,6 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="_copytxt" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
