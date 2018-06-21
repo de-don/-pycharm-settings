@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/de-don/socket_chart_drawer" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.saritasa.com" />
+          <option name="userName" value="DenisDontsov" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
