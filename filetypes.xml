@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="conf" type="Ini" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="sudo" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
