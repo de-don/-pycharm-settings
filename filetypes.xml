@@ -14,7 +14,6 @@
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="tf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
