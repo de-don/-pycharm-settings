@@ -7,6 +7,7 @@
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="sudo" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
+      <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="_copytxt" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
