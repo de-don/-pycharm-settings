@@ -26,6 +26,10 @@
           <option name="url" value="ssh://denisdontsov@gitblit.saritasa.com/usummit/backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.saritasa.com/DenisDontsov/crm_transfer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
