@@ -9,6 +9,7 @@
       <mapping pattern="steps" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
+      <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="_copytxt" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
