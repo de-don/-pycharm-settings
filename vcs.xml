@@ -30,6 +30,10 @@
           <option name="url" value="https://gitlab.saritasa.com/DenisDontsov/crm_transfer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/de-don/python-topic-model" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
