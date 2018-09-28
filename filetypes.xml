@@ -5,6 +5,7 @@
       <mapping ext="conf" type="Ini" />
       <mapping pattern="story.txt" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
+      <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="steps" type="PLAIN_TEXT" />
       <mapping pattern="sudo" type="PLAIN_TEXT" />
