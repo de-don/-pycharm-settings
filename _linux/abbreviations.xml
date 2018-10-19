@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ChooseRunConfiguration">
+        <abbreviation name="run" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
