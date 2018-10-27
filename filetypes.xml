@@ -19,6 +19,7 @@
       <mapping ext="_copytxt" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
+      <mapping ext="pik" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
     </extensionMap>
