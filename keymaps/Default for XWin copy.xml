@@ -6,5 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
