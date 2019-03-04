@@ -3,20 +3,21 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="conf" type="Ini" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="lis" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
-      <mapping pattern="story.txt" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="sudo" type="PLAIN_TEXT" />
-      <mapping pattern="lis.py" type="PLAIN_TEXT" />
+      <mapping pattern=".projectile" type="PLAIN_TEXT" />
+      <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
+      <mapping pattern="story.txt" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-kafka-ui" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
-      <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
-      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
+      <mapping pattern="lis.py" type="PLAIN_TEXT" />
       <mapping pattern="steps" type="PLAIN_TEXT" />
       <mapping ext="_copytxt" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
