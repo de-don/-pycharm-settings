@@ -16,6 +16,7 @@
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".fabfile" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="lis.py" type="PLAIN_TEXT" />
       <mapping pattern="steps" type="PLAIN_TEXT" />
