@@ -3,55 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="de-don" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/singleton11/pycamp-music-store" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/de-don/socket_chart_drawer.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/de-don/socket_chart_drawer" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.saritasa.com" />
-          <option name="userName" value="DenisDontsov" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://denisdontsov@gitblit.saritasa.com/usummit/backend.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.saritasa.com/DenisDontsov/crm_transfer.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/de-don/python-topic-model" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.saritasa.com/VrInterviewApp/backend" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.saritasa.com/analytics/backend" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="de-don" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://bitbucket.org/Ilpokypop/sale" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/de-don/insta_liketime" />
+          <option name="url" value="ssh://denisdontsov@gitblit.saritasa.com/paebac/backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
