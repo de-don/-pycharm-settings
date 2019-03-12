@@ -34,6 +34,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping pattern="app" type="Python" />
+      <mapping ext="template" type="Python" />
     </extensionMap>
   </component>
 </application>
