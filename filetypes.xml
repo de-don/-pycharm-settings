@@ -9,11 +9,11 @@
       <mapping pattern="Dockerfile-kafka-ui" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="story.txt" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern="sudo" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
+      <mapping pattern="story.txt" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern=".pgpass" type="PLAIN_TEXT" />
@@ -33,6 +33,8 @@
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping pattern="app" type="Python" />
+      <mapping ext="template" type="Python" />
     </extensionMap>
   </component>
 </application>

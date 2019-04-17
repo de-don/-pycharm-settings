@@ -1,0 +1,10 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myUserSpecifiedEnvs">
+      <map>
+        <entry key="INTREPID_DJANGO_ENVIRONMENT" value="local" />
+        <entry key="PROJECT_DIR" value="$PROJECT_DIR$" />
+      </map>
+    </option>
+  </component>
+</application>
