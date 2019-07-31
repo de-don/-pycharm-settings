@@ -12,5 +12,6 @@
     <mask>*.template</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
