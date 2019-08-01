@@ -10,8 +10,8 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.template</mask>
-    <mask>*.js</mask>
     <mask>*.yaml</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
