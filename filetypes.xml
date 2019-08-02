@@ -16,6 +16,7 @@
       <mapping pattern="lis.py" type="PLAIN_TEXT" />
       <mapping pattern="story.txt" type="PLAIN_TEXT" />
       <mapping pattern="lis" type="PLAIN_TEXT" />
+      <mapping pattern="set_up_only_local_settings" type="PLAIN_TEXT" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern=".pgpass" type="PLAIN_TEXT" />
       <mapping pattern="qwe" type="PLAIN_TEXT" />
