@@ -18,6 +18,7 @@
       <mapping pattern="lis" type="PLAIN_TEXT" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern=".pgpass" type="PLAIN_TEXT" />
+      <mapping pattern="qwe" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern="steps" type="PLAIN_TEXT" />
