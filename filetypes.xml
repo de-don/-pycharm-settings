@@ -16,28 +16,30 @@
       <mapping pattern="lis.py" type="PLAIN_TEXT" />
       <mapping pattern="story.txt" type="PLAIN_TEXT" />
       <mapping pattern="lis" type="PLAIN_TEXT" />
+      <mapping pattern="set_up_only_local_settings" type="PLAIN_TEXT" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern=".pgpass" type="PLAIN_TEXT" />
+      <mapping pattern="qwe" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern="steps" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-kafka-ui" type="PLAIN_TEXT" />
-      <mapping ext="npy" type="PLAIN_TEXT" />
-      <mapping ext="tex" type="PLAIN_TEXT" />
-      <mapping ext="pik" type="PLAIN_TEXT" />
       <mapping ext="_copytxt" type="PLAIN_TEXT" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="fb2" type="PLAIN_TEXT" />
-      <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="pik" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="npy" type="PLAIN_TEXT" />
+      <mapping ext="tfstate" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="app" type="Python" />
       <mapping ext="template" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
