@@ -5,7 +5,6 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="conf" type="Ini" />
-      <mapping pattern="interpid_dev" type="PLAIN_TEXT" />
       <mapping pattern="submodule_file" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
@@ -14,13 +13,14 @@
       <mapping pattern="sudo" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="selected" type="PLAIN_TEXT" />
+      <mapping pattern="qwe" type="PLAIN_TEXT" />
       <mapping pattern="lis.py" type="PLAIN_TEXT" />
       <mapping pattern="story.txt" type="PLAIN_TEXT" />
       <mapping pattern="lis" type="PLAIN_TEXT" />
       <mapping pattern="set_up_only_local_settings" type="PLAIN_TEXT" />
+      <mapping pattern="interpid_dev" type="PLAIN_TEXT" />
       <mapping pattern=".README" type="PLAIN_TEXT" />
       <mapping pattern=".pgpass" type="PLAIN_TEXT" />
-      <mapping pattern="qwe" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern="steps" type="PLAIN_TEXT" />
