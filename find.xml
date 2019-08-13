@@ -14,5 +14,6 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.handlebars</mask>
   </component>
 </application>
