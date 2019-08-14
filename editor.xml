@@ -11,4 +11,11 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="important" pattern="(Dontsov)" />
+    <filter name="My todos">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>
