@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="todo" value="// TODO(Dontsov): $END$" description="Add JS todo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
