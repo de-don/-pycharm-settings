@@ -9,7 +9,7 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
