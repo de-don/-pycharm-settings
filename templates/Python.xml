@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="todo" value="# TODO(Dontsov): $END$" description="Add Python todo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
