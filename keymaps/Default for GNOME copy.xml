@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="Activatemanage.py@macroplateToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="Activatemanage.py@membersetToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
