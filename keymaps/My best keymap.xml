@@ -1,7 +1,7 @@
-<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+<keymap version="1" name="My best keymap" parent="Default for GNOME">
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="Activatemanage.py@macroplateToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
