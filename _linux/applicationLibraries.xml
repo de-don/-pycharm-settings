@@ -1,0 +1,43 @@
+<application>
+  <component name="libraryTable">
+    <library name="bootstrap-datetimepicker" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datetimepicker_4.17.47_js_bootstrap-datetimepicker.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datetimepicker_4.17.47_js_bootstrap-datetimepicker.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="main" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@fullcalendar_core@4.4.0_main.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@fullcalendar_core@4.4.0_main.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@fullcalendar_daygrid@4.4.0_main.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@fullcalendar_daygrid@4.4.0_main.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@fullcalendar_core@4.4.0_main.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@fullcalendar_core@4.4.0_main.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@fullcalendar_daygrid@4.4.0_main.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_browse_@fullcalendar_daygrid@4.4.0_main.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="moment-with-locales" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.9.0_moment-with-locales.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.9.0_moment-with-locales.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
