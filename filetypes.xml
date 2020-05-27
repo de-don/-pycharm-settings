@@ -11,7 +11,9 @@
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern="filters" type="PLAIN_TEXT" />
       <mapping pattern="app:" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
