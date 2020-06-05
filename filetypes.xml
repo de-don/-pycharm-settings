@@ -6,6 +6,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping pattern=".obfuscated" type="PLAIN_TEXT" />
+      <mapping pattern="2020_06_05_10_33_22-f-dump" type="PLAIN_TEXT" />
       <mapping pattern="public" type="PLAIN_TEXT" />
       <mapping pattern=".invoke" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
