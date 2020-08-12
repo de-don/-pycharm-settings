@@ -1,24 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="private" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".fabric" type="PLAIN_TEXT" />
       <mapping pattern="commit-msg" type="PLAIN_TEXT" />
+      <mapping pattern="private" type="PLAIN_TEXT" />
+      <mapping pattern="app:" type="PLAIN_TEXT" />
+      <mapping pattern=".invoke" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="public" type="PLAIN_TEXT" />
+      <mapping pattern="filters" type="PLAIN_TEXT" />
       <mapping pattern=".obfuscated" type="PLAIN_TEXT" />
       <mapping pattern="2020_06_05_10_33_22-f-dump" type="PLAIN_TEXT" />
-      <mapping pattern="public" type="PLAIN_TEXT" />
-      <mapping pattern=".invoke" type="PLAIN_TEXT" />
-      <mapping pattern=".fabric" type="PLAIN_TEXT" />
-      <mapping pattern="filters" type="PLAIN_TEXT" />
-      <mapping pattern="app:" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
