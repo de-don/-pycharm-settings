@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".fabric" type="PLAIN_TEXT" />
-      <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="private" type="PLAIN_TEXT" />
+      <mapping pattern="commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="app:" type="PLAIN_TEXT" />
       <mapping pattern=".invoke" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
